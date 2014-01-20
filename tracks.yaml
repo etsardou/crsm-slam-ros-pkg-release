@@ -14,8 +14,8 @@ tracks:
     patches: null
     release_inc: '0'
     release_repo_url: null
-    release_tag: 1.0.0
+    release_tag: 1.0.1
     ros_distro: hydro
     vcs_type: git
     vcs_uri: https://github.com/etsardou/crsm-slam-ros-pkg.git
-    version: :{auto}
+    version: 1.0.1
