@@ -54,6 +54,11 @@ install(DIRECTORY launch config
   DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
 )
 
+# Install libraries
+install(TARGETS crsm_laser crsm_map crsm_slam
+  LIBRARY DESTINATION ${CATKIN_PACKAGE_LIB_DESTINATION}
+)
+
 # Install excecutables
 install(TARGETS crsm_slam_node
   RUNTIME DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION}
