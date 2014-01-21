@@ -1,3 +1,22 @@
+## crsm-slam-ros-pkg - 1.0.1-1
+
+User `chris@chris-zenbook` released the packages in the `crsm-slam-ros-pkg` repository by running `/usr/bin/bloom-release crsm-slam-ros-pkg --track hydro --rosdistro hydro --edit` on `Tue, 21 Jan 2014 12:20:40 -0000`
+
+The `crsm_slam` package was released.
+
+Version of package(s) in repository `crsm-slam-ros-pkg`:
+- rosdistro version: `1.0.1-0`
+- old version: `1.0.1-0`
+- new version: `1.0.1-1`
+
+Versions of tools used:
+- bloom version: `0.4.4`
+- catkin_pkg version: `0.1.24`
+- rosdep version: `0.10.24`
+- rosdistro version: `0.2.20`
+- vcstools version: `0.1.33`
+
+
 ## crsm-slam-ros-pkg - 1.0.1-0
 
 User `chris@chris-zenbook` released the packages in the `crsm-slam-ros-pkg` repository by running `/usr/bin/bloom-release crsm-slam-ros-pkg --track hydro --rosdistro hydro --edit` on `Mon, 20 Jan 2014 12:41:30 -0000`
