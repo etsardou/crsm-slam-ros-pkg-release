@@ -50,7 +50,7 @@ target_link_libraries(crsm_slam_node
 )
 
 # Install headers
-install(DIRECTORY include
+install(DIRECTORY include/
    DESTINATION ${CATKIN_GLOBAL_INCLUDE_DESTINATION}
    FILES_MATCHING PATTERN "*.h"
 )
