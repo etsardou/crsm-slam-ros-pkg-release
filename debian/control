@@ -1,0 +1,12 @@
+Source: ros-hydro-crsm-slam
+Section: misc
+Priority: extra
+Maintainer: Manos Tsardoulias <etsardou@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin, ros-hydro-geometry-msgs, ros-hydro-nav-msgs, ros-hydro-roscpp, ros-hydro-sensor-msgs, ros-hydro-tf
+Homepage: http://ros.org/wiki/crsm_slam
+Standards-Version: 3.9.2
+
+Package: ros-hydro-crsm-slam
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-geometry-msgs, ros-hydro-nav-msgs, ros-hydro-roscpp, ros-hydro-sensor-msgs, ros-hydro-tf
+Description: ROS package for the CRSM SLAM (Critical Rays Scan Match Simultaneous Localization And Mapping)
