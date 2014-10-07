@@ -1,3 +1,24 @@
+## crsm_slam (indigo) - 1.0.3-0
+
+The packages in the `crsm_slam` repository were released into the `indigo` distro by running `/usr/bin/bloom-release crsm_slam --track indigo --rosdistro indigo --new-track` on `Tue, 07 Oct 2014 13:36:07 -0000`
+
+The `crsm_slam` package was released.
+
+Version of package(s) in repository `crsm_slam`:
+- upstream repository: https://github.com/etsardou/crsm-slam-ros-pkg.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.0.3-0`
+
+Versions of tools used:
+- bloom version: `0.5.12`
+- catkin_pkg version: `0.2.4`
+- rosdep version: `0.10.30`
+- rosdistro version: `0.3.5`
+- vcstools version: `0.1.35`
+
+
 ## crsm_slam (hydro) - 1.0.3-1
 
 The packages in the `crsm_slam` repository were released into the `hydro` distro by running `/usr/bin/bloom-release crsm_slam --track hydro --rosdistro hydro` on `Sun, 08 Jun 2014 21:58:45 -0000`
