@@ -1,0 +1,25 @@
+ros-indigo-crsm-slam (1.0.3-0saucy) saucy; urgency=high
+
+  * Compliance with ROS REP 117
+
+ -- Manos Tsardoulias <etsardou@gmail.com>  Sat, 10 May 2014 21:00:00 -0000
+
+ros-indigo-crsm-slam (1.0.2-0saucy) saucy; urgency=high
+
+  * fix cmake to export shared libraries
+
+ -- Manos Tsardoulias <etsardou@gmail.com>  Tue, 25 Feb 2014 22:00:00 -0000
+
+ros-indigo-crsm-slam (1.0.1-0saucy) saucy; urgency=high
+
+  * fix install targets in cmake
+
+ -- Manos Tsardoulias <etsardou@gmail.com>  Sat, 18 Jan 2014 22:00:00 -0000
+
+ros-indigo-crsm-slam (1.0.0-0saucy) saucy; urgency=high
+
+  * First release of crsm_slam
+
+ -- Manos Tsardoulias <etsardou@gmail.com>  Mon, 06 Jan 2014 22:00:00 -0000
+
+
